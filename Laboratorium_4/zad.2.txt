@@ -1,0 +1,5 @@
+Gdy Klasa zawiera metodę abstrakcyjną, nie można tworzyć obiektów tej klasy
+
+W klasie pochodnej wywołanie klasy bazowej musi znajdować się w konstruktorze.
+
+Zmienna referencyjna typu klasy bazowej może wskazywać obiekt typu klasy pochodnej rozszerzającej daną klasę bazową.
