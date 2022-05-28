@@ -1,0 +1,1 @@
+public class Stereo extends SoundSystem implements CDPlayable, TunerPlayable, CassettePlayable
