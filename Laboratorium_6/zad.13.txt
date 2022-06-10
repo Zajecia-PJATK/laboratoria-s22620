@@ -1,0 +1,5 @@
+ArithmeticException -  Błąd operacji działania arytmetycznego
+ArrayIndexOutOfBoundsException - Wyjście indeksu poza tablicę
+NullPointerException - Kiedy obiekt ma wartość null
+NoSuchMethodException - Kiedy klasa nie zawiera metody o danej nazwie
+StringIndexOutOfBoundsException - Jeżeli w klasie String index jest poza rozmiarem tej klasy 
